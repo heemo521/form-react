@@ -1,6 +1,7 @@
-import './App.css';
+import React from 'react';
 import AddUser from './components/Users/AddUser';
 import UserDisplay from './components/Users/UserDisplay';
+import './App.css';
 
 function App() {
   return (

@@ -1,3 +1,5 @@
+import React from 'react';
+
 import styles from './UserDisplay.module.css';
 
 const UserDisplay = () => {
